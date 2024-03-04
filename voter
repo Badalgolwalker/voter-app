@@ -1,0 +1,17 @@
+isme do modl honge
+1 user
+2 party
+
+
+usermodel me username name
+age,adahr no.password image
+paty id
+
+functionaliye  ward wise 
+party{
+    party name,
+    party sign image,
+    userid
+    umidwar
+
+}
